@@ -1,7 +1,7 @@
 <h1 align="center">Explore sem limites</h1>
 
 <p align="center">
-Projeto de SPA onde é aplicado conceito de semântica no html, váriavéis, animações e responsividade no css<br/>
+Projeto onde é aplicado conceito de semântica no html, váriavéis, animações e responsividade no css<br/>
 </p>
 
 <p align="center">
